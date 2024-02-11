@@ -1,0 +1,4 @@
+pytesseract[standard]
+opencv-python[standard]
+opencv-contrib-python[standard]
+tesseract[standard]
